@@ -1,3 +1,7 @@
+# Credits
+Based on
+https://github.com/EDLLT/WSL2-Linux-Kernel
+
 # Introduction
 
 The [WSL2-Linux-Kernel][wsl2-kernel] repo contains the kernel source code and
